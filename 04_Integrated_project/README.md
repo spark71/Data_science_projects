@@ -19,10 +19,10 @@
 
 ### Библиотеки
 
-python
-pandas
-scipy
-math
-matplotlib
-seaborn
-plotly
+- python
+- pandas
+- scipy
+- math
+- matplotlib
+- seaborn
+- plotly
